@@ -1,0 +1,6 @@
+C:\Users\Enzo\Desktop\UTN\Ejercicio05\Ejercicio05\bin\Debug\Ejercicio05.exe.config
+C:\Users\Enzo\Desktop\UTN\Ejercicio05\Ejercicio05\bin\Debug\Ejercicio05.exe
+C:\Users\Enzo\Desktop\UTN\Ejercicio05\Ejercicio05\bin\Debug\Ejercicio05.pdb
+C:\Users\Enzo\Desktop\UTN\Ejercicio05\Ejercicio05\obj\Debug\Ejercicio05.csproj.CoreCompileInputs.cache
+C:\Users\Enzo\Desktop\UTN\Ejercicio05\Ejercicio05\obj\Debug\Ejercicio05.exe
+C:\Users\Enzo\Desktop\UTN\Ejercicio05\Ejercicio05\obj\Debug\Ejercicio05.pdb

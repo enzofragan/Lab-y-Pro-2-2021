@@ -1,0 +1,6 @@
+C:\Users\Enzo\Desktop\UTN\Ejercicio07\Ejercicio07\bin\Debug\Ejercicio07.exe.config
+C:\Users\Enzo\Desktop\UTN\Ejercicio07\Ejercicio07\bin\Debug\Ejercicio07.exe
+C:\Users\Enzo\Desktop\UTN\Ejercicio07\Ejercicio07\bin\Debug\Ejercicio07.pdb
+C:\Users\Enzo\Desktop\UTN\Ejercicio07\Ejercicio07\obj\Debug\Ejercicio07.csproj.CoreCompileInputs.cache
+C:\Users\Enzo\Desktop\UTN\Ejercicio07\Ejercicio07\obj\Debug\Ejercicio07.exe
+C:\Users\Enzo\Desktop\UTN\Ejercicio07\Ejercicio07\obj\Debug\Ejercicio07.pdb
